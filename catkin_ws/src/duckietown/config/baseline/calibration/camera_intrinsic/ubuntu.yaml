@@ -1,0 +1,23 @@
+camera_matrix:
+  cols: 3
+  data: [513.5624142455529, 0.0, 363.83755898093114, 0.0, 523.9980199520053, 223.27859759719686,
+    0.0, 0.0, 1.0]
+  rows: 3
+camera_name: ubuntu/camera_node
+distortion_coefficients:
+  cols: 5
+  data: [0.13518492493788592, -0.12494512177859989, -0.02632564010961511, 0.02596543823196774,
+    0.0]
+  rows: 1
+distortion_model: plumb_bob
+image_height: 480
+image_width: 640
+projection_matrix:
+  cols: 4
+  data: [531.8655395507812, 0.0, 378.9707959173029, 0.0, 0.0, 550.412841796875, 212.09657940522447,
+    0.0, 0.0, 0.0, 1.0, 0.0]
+  rows: 3
+rectification_matrix:
+  cols: 3
+  data: [1.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 1.0]
+  rows: 3
